@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DadosPassageiros>
+	<passageiro>
+		<nome>Pedro</nome>
+		<idade>19</idade>
+		<numeroticket>1</numeroticket>
+		<origemedestino>Brazil to France</origemedestino>
+	</passageiro>
+	<passageiro>
+		<nome>Luis</nome>
+		<idade>24</idade>
+		<numeroticket>2</numeroticket>
+		<origemedestino>Brazil to London</origemedestino>
+	</passageiro>
+	<passageiro>
+		<nome>Mateus</nome>
+		<idade>20</idade>
+		<numeroticket>3</numeroticket>
+		<origemedestino>Brazil to USA</origemedestino>
+	</passageiro>
+	<passageiro>
+		<nome>Carlos</nome>
+		<idade>21</idade>
+		<numeroticket>4</numeroticket>
+		<origemedestino>Brazil to Italy</origemedestino>
+	</passageiro>
+	<passageiro>
+		<nome>Anderson</nome>
+		<idade>30</idade>
+		<numeroticket>5</numeroticket>
+		<origemedestino>Brazil to Rome</origemedestino>
+	</passageiro>
+</DadosPassageiros>
+	
